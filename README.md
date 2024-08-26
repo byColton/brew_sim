@@ -1,4 +1,3 @@
-Here's a GitHub description for your brewing simulation project:
 
 ---
 
