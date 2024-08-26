@@ -34,6 +34,3 @@ Here's a GitHub description for your brewing simulation project:
 **Contributions:**
 Contributions are welcome! Whether it's adding new features, optimizing existing ones, or improving documentation, feel free to fork the repository and create a pull request.
 
----
-
-This description highlights the core functionality, potential use cases, and how to get started with the project. It also invites collaboration from the open-source community.
